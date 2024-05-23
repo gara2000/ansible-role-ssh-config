@@ -1,0 +1,10 @@
+galaxy_info:
+  author: gara
+  description: Configures SSH to be more secure
+  license: license (GPL-2.0-or-later, MIT, etc)
+
+  min_ansible_version: 2.1
+
+  galaxy_tags:
+    - ssh
+    - security
